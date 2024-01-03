@@ -30,3 +30,18 @@ body{
     display: inline;
     padding: 0 6px;
 }
+
+.seconddiv{
+    height: 90vh;
+    width: 80%;
+    margin: 0 10% 0;
+}
+.secondleft{
+    display: inline-block;
+    height: 100%;
+    width: 49.7%;
+    background-image: url(/images/picture3.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
